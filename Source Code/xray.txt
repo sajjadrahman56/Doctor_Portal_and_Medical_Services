@@ -1,0 +1,24 @@
+
+
+					     X-RAY
+
+                         NAME                                      PRICE
+			------					  -------
+
+		    1. Chest P/A                      		  300.00
+
+		    2. KUB Abdomen A/P                       	  400.00
+
+		    3. Abdomen EP                    		  400.00
+
+ 		    4. PNS OMV                       		  300.00
+
+		    5. Skull B/V                     		  500.00
+
+		    6. Wrist joints B/V                      	  300.00
+
+		    7. Hip joints B/V                        	  400.00
+
+		    8. Knee joints B/V                            300.00
+
+		    9. Cervical Spine B/V                    	  400.00

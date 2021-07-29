@@ -1,0 +1,28 @@
+
+
+						  ULCER
+
+		   Name			        Catagories 			  Price
+		 ---------			---------- 		        ----------
+
+		1. ANTEPSIN 	 		  Tablet 	  	    100s pack: 400.00 MRP.
+
+		2. GASTALFET 	 		  Tablet 	 	    100s pack: 402.00 IP.
+
+		3. ULSEC 	 	 	  Tablet 		    24s pack: 96.00 MRP.
+
+		4. ENSO 	 		 Capsule 	  	    20s pack: 60.00 MRP.  
+
+		5. LANOZOLE  		  	 Capsule 		    40s pack: 120.00 MRP. 
+
+		6. LANSEC  			 Capsule   	 	    60s pack: 300.00 MRP
+
+		7. LANSINA  			 Capsule 	 	    25s pack: 150.00  MRP.
+
+		8. LANSO  			 Capsule 	  	    50s pack: 175.00 MRP.  
+
+		9. LANSODIN 			 Capsule 	 	    28s pack: 98.00 MRP.  
+
+		10. LANSOPROL  			 Capsule 	  	    20s pack: 80.00 MRP.
+		
+		 

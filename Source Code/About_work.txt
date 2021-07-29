@@ -1,0 +1,25 @@
+		
+
+
+
+
+				[---About project----]
+
+	Our project is about Doctor Portal & Medical Services has four parts. 
+
+	These are DoctorsInformation & Tickets Buy, Prices of Medicine, Medical Test & Test Price and Ambulance Services. 
+
+	Doctor information & tickets buy has two sub sections,	 1. Hospital List 	and  		2. Tickets History.  
+
+	In these part where they will show the name of some hospitals list and different fields of doctors (like Medicine specialist, Cardiologist, Dentist etc.) 
+	
+	And doctor information of each of the fields, also the ticket buying . 
+
+	Second one show the list of groups of medicine and each medicine prices.
+
+	Third one will show the medical test list , test price  and available place
+
+	(This section is able to show three nearest medical or diagnostic center as well as far).
+
+	Fourth one will show how much service fee will be required for ambulance service (Home to Hospital & Hospital to Home).
+

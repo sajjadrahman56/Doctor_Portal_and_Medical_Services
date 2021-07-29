@@ -1,0 +1,26 @@
+
+
+						  COUGH
+
+
+		  C O D E			Catagories 			  Price
+		 ---------			---------- 		        ----------
+
+		 1. BROFEX 	 		  Syrup 	  	    100ml bot: 25.00 MRP.
+
+		 2. COLDFLU 	  		  Syrup 	 	    100ml bot: 23.00 MRP.
+
+		 3. D-COUGH 	 		  Syrup   		    100ml hot: 25.00 MRP.
+
+		 4. DEPHAN 	 		  Syrup 	 	    100ml bot: 20.00 MRP.
+
+		 5. DEXSOL   			  Syrup 	 	    100ml bot: 25.00 MRP.
+
+		 6. DEXTROMETHORPHAN 		  Syrup 	  	    100ml bot: 35.00 MRP.
+
+		 7. DEXTROMETHORPHAN 		  Syrup 	  	    100ml bot: 24.27 MRP.
+
+		 8. EXOPHAN 	  		  Syrup 	 	    100ml bot: 24.00 MRP.
+
+.
+		 

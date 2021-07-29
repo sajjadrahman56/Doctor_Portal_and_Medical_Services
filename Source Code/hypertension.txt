@@ -1,0 +1,30 @@
+
+
+					       HYPERTENSION
+
+
+		   Name			        Catagories 			  Price
+		 ---------			---------- 		        ----------
+	
+		1. ACEPRIL 	 		  Tablet 		      50s: 200.00 MRP. 
+
+		2. FASTRIL 	 		  Tablet  		      50s: 139.13 MRP.  
+
+		3. G-LISINOPRIL 	 	  Tablet 		      50s: 100.00 MRP.
+
+		4. HYPORIL 	 		  Tablet 		      50s: 1000.00 MRP. 	
+
+		5. LINORIL 			  Tablet  		      50s: 129.50 IP.
+
+		6. LIPRIL 		 	  Tablet  		      50s: 150.00 MRP.
+
+		7. LISPRIL 	 		  Tablet  		      50s: 112.50 MRP.
+
+		8. NEOPRIL  			  Tablet  		      100s: 100.50 MRP.
+
+		9. NOP 	 			  Tablet  		      50s: 177.00 MRP.
+
+		10. STRIL  			  Tablet  		      28s: 84.00 MRP.
+
+
+ 

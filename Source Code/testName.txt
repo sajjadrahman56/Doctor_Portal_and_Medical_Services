@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+				T E S T 	N A M E 
+
+
+
+		1. HAMATOLOGY.  		 2. BIOCHEMESTRY.
+
+		3. SEROLOGY.			 4. URINE.
+
+                5. STOOL.			 6.MICROBIOLOGY.
+
+                7. CYTOPATHOLOGY.                8. HORMONES.
+
+                9. ULTRASONOGRAM.                10. X-RAY.
+
+                

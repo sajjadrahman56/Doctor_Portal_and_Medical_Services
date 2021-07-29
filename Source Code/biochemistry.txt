@@ -1,0 +1,26 @@
+
+
+			        BIOCHEMISTRY
+
+		NAME                                      PRICE
+	      --------					---------
+
+	 1. Fasting Blood Sugar                   	  100.00
+
+	 2. Random Blood Sugar                    	  100.00
+
+	 3. Blood Sugar 1h A.B.F                          100.00
+
+	 4. Blood Sugar 2h A.B.F                          100.00
+
+	 5. 2h 75gm Glucose Drink                         100.00
+
+	 6. 2h After Lunch                         	  100.00
+
+	 7. GTT                  			  300.00
+
+	 8. HbA 1C                        		  800.00
+
+	 9. S Urea                        		  200.00
+
+	 10. Creatinine                   		  200.00

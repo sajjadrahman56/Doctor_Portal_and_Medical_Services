@@ -1,0 +1,27 @@
+
+
+			             HAMATOLOGY
+
+		 NAME                                           PRICE
+	       -------					       -------
+
+	       1. TC WBC                                       100.00
+
+               2. DC WBC                                       100.00
+
+               3. HB                                           100.00
+
+               4. ESR                                          100.00
+
+               5. CBC                                          400.00
+
+               6. BT                                           100.00
+
+               7. CT                                           100.00
+
+               8. TCE                                          100.00
+
+               9. Mp		                               100.00
+
+               10. Platelet Count                              100.00
+                                 

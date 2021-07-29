@@ -1,0 +1,23 @@
+
+
+				 ULTRASONOGRAM
+
+
+		 NAME                                           PRICE
+	       -------					       -------
+
+	    1. Whole Abdomen                         	       1000.00
+
+	    2. HBS-Upper Abdomen                     	       800.00
+
+	    3. Lower Abdomen                         	       800.00
+
+	    4. Uterus                        		       800.00
+
+	    5. pregnancy Profile                     	       800.00
+
+	    6. Chest                         		       800.00
+
+	    7. Thyroid                       		       1000.00
+
+	    8. Brain                         		       800.00
